@@ -1,0 +1,6 @@
+{
+  "name": "FastAPI Hello World Backend",
+  "description": "A simple Python FastAPI backend with a /hello endpoint that simulates a 10-second task, ready for AWS EC2 deployment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
