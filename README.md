@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FastAPI Hello World Backend
 
 A simple, beginner-friendly FastAPI backend with a single endpoint `GET /hello` that waits for exactly 10 seconds to simulate a long-running task before returning a JSON response.
@@ -153,3 +154,6 @@ Access the endpoint from your local machine:
 curl http://<your-ec2-public-ip>:8000/hello
 ```
 Congratulations! Your simple FastAPI service is now securely deployed on AWS EC2!
+=======
+# fastapi-hello-world-backend
+>>>>>>> a1dc3a10f42ab9612d93c6667369198edf03eaec
